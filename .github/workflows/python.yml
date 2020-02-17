@@ -22,7 +22,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Building web app
-        uses: azure/appservice-build@v1
+      uses: azure/appservice-build@v1
     - name: Deploy Web App using GH Action azure/webapps-deploy
       uses: azure/webapps-deploy@v1
       with:
