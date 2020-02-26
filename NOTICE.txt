@@ -1,0 +1,13 @@
+NOTICES AND INFORMATION
+Do Not Translate or Localize
+
+This repository for pythonSample_thecatsaidno includes material from the projects listed below. 
+
+
+1. https://github.com/craigloewen-msft/Useful-Website-Flask
+
+This is a Useful Website written in Flask for demo purposes and is released under MIT License.
+
+2. https://github.com/gtsopour/nodejs-shopping-cart
+
+NodeJS Shopping Cart - NodeJS, Express, Express-Session, Express handlebars (hbs) is released under MIT License.
