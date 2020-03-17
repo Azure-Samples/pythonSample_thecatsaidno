@@ -1,4 +1,4 @@
-name: Build and Deploy Python package to Azure Web App
+name: App service Build and Deploy Python package to Azure Web App
 
 on:
   [push]
