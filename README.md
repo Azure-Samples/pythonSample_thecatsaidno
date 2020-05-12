@@ -1,9 +1,12 @@
 ---
 page_type: sample
-languages: Python
-products: GitHub
 description: "Deploy Python application using GitHub Actions"
-urlFragment: "https://github.com/chrisdias/theCatSaidNo"
+products:
+- GitHub Actions
+- Azure App service
+languages:
+- Python
+urlFragment: https://github.com/chrisdias/theCatSaidNo
 ---
 
 # Deploying a Python Web App using GitHub actions
